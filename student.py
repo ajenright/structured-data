@@ -1,7 +1,7 @@
 
 student = {
-    'name': "Rick Wash",
-    'major': "Media and Information",
+    'name': "Aaron Enright",
+    'major': "Library and Information Science",
     'favorite_food': "pizza"
     }
 
